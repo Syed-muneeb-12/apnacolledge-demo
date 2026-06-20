@@ -1,2 +1,3 @@
 # apnacolledge-demo
-this is my first official GitHub repo
+This is my first official GitHub repo
+Author - Syed Muneeb
